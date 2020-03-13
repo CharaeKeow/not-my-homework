@@ -43,6 +43,7 @@ int main() {
 
 		if (day == 0) { //if day == 0 the program will stop
 			cout << "Program exited. Bye" << endl; //print bye-bye message
+			break; //exit the loop so that the total rent won't be print. Try remove this.
 		}
 		cout << "The rent is RM " << rent << endl; //otherwise show the total rent
 	} while (day != 0); //stopping condition. It will check whether day is 0. If it is 0, then the loop will stop
