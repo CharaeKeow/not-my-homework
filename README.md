@@ -4,3 +4,7 @@ Once in a while, being a CS student, some friends will ask me to help them do th
 
 ## Questions:
 1. [Calculating car rental price](https://github.com/CharaeKeow/not-my-homework/tree/master/Calculate%20Car%20Rental%20Fee)
+
+
+## Contributions
+If you find any error in the code, or you think you have a more elegant solution to the problem or wanna solve it in a different language, simply submit a PR.
